@@ -1,2 +1,2 @@
 # First-trial
-Repository created to educational porpuses.
+Repository created for educational purposes
